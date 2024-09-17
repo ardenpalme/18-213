@@ -1,0 +1,2 @@
+LAB = tshlab
+COURSECODE = 15213-m20 15513-m20
